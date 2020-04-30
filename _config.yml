@@ -1,0 +1,16 @@
+title: SFF Community
+description: sitecore front end friends community
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: pretty
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+heading_anchors: true
+aux_links:
+  "About SFF":
+    - "/about"
+theme: just-the-docs
+plugins:
+  - jekyll-seo-tag
+color_scheme: nil
