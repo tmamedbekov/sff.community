@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 tags: [about]
+nav_order: 2
 ---
 
 This is a community supported web site. You can contribute to this web site with a simple PR.
