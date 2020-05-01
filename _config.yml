@@ -17,3 +17,4 @@ footer_content: "Copyright &copy; 2018-2019 Sitecore Community."
 plugins:
   - jekyll-seo-tag
 color_scheme: nil
+ga_tracking: G-DP487ZFLVT
