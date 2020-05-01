@@ -12,10 +12,11 @@ You can contribute to this web site <https://github.com/tmamedbekov/sff.communit
 
 How do I do this?
 
-| Steps |
-|-------|
-|Fork it|
-|Clone it|
-|Commit your changes|
-|Create a PR from your repo to our repo|
-|We will approve it and it will be live|
+| Steps ||
+|-|-|
+|Fork it||
+|Clone it||
+|Commit you changes||
+|Create a PR from your repo to our repo||
+|Preview it |![SFF Logo](/images/instructions/preview-your-changes.png)|
+|We will approve it and it will be live||
