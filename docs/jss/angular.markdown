@@ -5,4 +5,4 @@ parent: JSS
 nav_order: 2
 ---
 
-Everything about Sitecore JSS and Angular
+Everything about Sitecore JSS and Angular and ScullyJS
